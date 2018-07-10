@@ -11,7 +11,7 @@ end
 
 first_steps
 def a_few_more_steps
-  loop do
+  loop do for 5
   puts "Right foot steps right and back"
   sleep(0.5)
   puts "left foot crosses over right"
